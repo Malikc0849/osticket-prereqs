@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://imgur.com/TqRPPdW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Start by loading up your Azure Virtual Machine. Once it is done, Right click the windows button and click run. Once the prompt loads, type 'control' and the control panel should come in. Click programs, then click "turn windows features on and off". Once you find Internet Information Services, click it on then expand.
+Start by loading up your Azure Virtual Machine. Once it is done, Right click the windows button and click run. Once the prompt loads, type 'control' and the control panel should come in. Click programs, then click "turn windows features on and off". Once you find Internet Information Services, click it on then expand. Expand "World Wide Web", then expand "Application Developer". Then finally, look for and click "CGI".
 </p>
 <br />
 
