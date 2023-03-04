@@ -91,9 +91,9 @@ Next, Download the Rewrite Module (rewrite_amd64_en-US msi) and finish the insta
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/u4TjLj3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>null
+<p>There are a couple more things you'll need to do before it's ready to go. Open PHP manager in the osTicket folder in IIS. Then click 'Enable or disable Extentions'. Look for and click on "php_imap.dll", "php_intl.dll" and "php_opcache.dll". Then refresh OsTicket.
 </p>
 <br />
 
