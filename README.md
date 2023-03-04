@@ -70,6 +70,20 @@ Next, Download the Rewrite Module (rewrite_amd64_en-US msi) and finish the insta
 <br />
 
 <p>
+<img src="https://imgur.com/xbPCeex.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>Next, you have to register PHP in IIS. Open IIS in the downloads and click PHP Mananger. Click "register new PHP version". Click the three dots on the right side then go in the PHP folder and look for "php-cgi". Click it, then click ok.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>null
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>null
