@@ -77,9 +77,9 @@ Next, Download the Rewrite Module (rewrite_amd64_en-US msi) and finish the insta
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Iyf1knF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>null
+<p>Now download 'OsTicket' (osTicket v1.15.8 zip) and extract the upload folder (in the os ticket file you've downloaded) it into c:/inetpub/wwwroot (you can type it into the search bar in the file explorer.) and let it do its thing. (it may take a while.) once finished, rename the file to "OsTicket".
 </p>
 <br />
 
