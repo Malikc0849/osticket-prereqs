@@ -98,6 +98,20 @@ Next, Download the Rewrite Module (rewrite_amd64_en-US msi) and finish the insta
 <br />
 
 <p>
+<img src="https://imgur.com/G8QKY2e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>Now go back into the 'wwwroot' folder and into the renamed "OsTicket" folder. Look for "ost-sampleconfig.php" and rename it "ost-config.php" (Just erase the 'sample' part of the name.) Then right click onto it and select properties. A new window should pop up. Click 'Security' then 'Advanced'. Next, click "Disable Inheritance" then click "Remove all permissions". 
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/XFHKHzi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>Now, Click "add", then "select Principals". Type in "everybody" then select all permissions and click 'ok' then 'Apply' OsTicket Should be good and ready to run!
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>null
