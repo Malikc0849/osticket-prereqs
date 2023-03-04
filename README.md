@@ -56,6 +56,22 @@ Next, Download the Rewrite Module (rewrite_amd64_en-US msi) and finish the insta
 <br />
 
 <p>
+<img src="https://imgur.com/Wy82CoG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>In the file explorer, go into the C: drive ("Windows (C:)) and create a new folder labeled "PHP". Then Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86 zip). Once it's done, right click the new download and click extract. Click 'browse other options' and look for the folder you've just created, then click extract.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/5YiueEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>Next, download Redistribution (VC redistx86.exe) and go through the installation setup. You'll need to create a username and password. Afterwards, check everything and finish the installation.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
+<p>null
+</p>
+<br />
