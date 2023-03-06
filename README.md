@@ -2,11 +2,11 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - After Install Setup</h1>
+This tutorial outlines the after setup of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
+<h2>Video Demonstration (Still Not Mine)</h2>
 
 - ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
 
