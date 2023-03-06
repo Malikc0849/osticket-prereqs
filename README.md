@@ -112,8 +112,9 @@ Next, Download the Rewrite Module (rewrite_amd64_en-US msi) and finish the insta
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/kozRtaQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>null
+<p>Once you're done creating your Os account, we need to create an OsTicket database. Now to create a database for OsTicket, download HeidiSQL and complete the setup. Launch when finished. then, right-click "unnamed" and click "create new" and then "database". Then type in 'OsTicket', and click ok. Finally, enter your database name (OsTicket) and Install! All done!
 </p>
 <br />
+
