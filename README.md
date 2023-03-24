@@ -54,7 +54,7 @@ Next, Download the Rewrite Module (rewrite_amd64_en-US msi) and finish the insta
 <p>
 <img src="https://imgur.com/5YiueEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Next, download Redistribution (VC redistx86.exe) and go through the installation setup. You'll need to create a username and password. Afterwards, check everything and finish the installation.
+<p>Next, download Redistribution (VC redistx86.exe) and go through the installation setup. You'll need to create a username and password. Afterwards, remember the username and password, and finish the installation.
 </p>
 <br />
 
